@@ -1,0 +1,10 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-test {
+	font-family: "BPG Arial', sans-serif";
+	
+}

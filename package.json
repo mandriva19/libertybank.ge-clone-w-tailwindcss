@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bpg-arial": "^1.0.0",
+    "bpg-arial-caps": "^1.0.1",
+    "live-server": "^1.2.2"
+  },
+  "name": "libertybank.ge-clone-w-tailwindcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "scripts": {
+    "start": "npx tailwindcss -i ./app/css/input.css -o ./app/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
